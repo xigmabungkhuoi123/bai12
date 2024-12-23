@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:auto;
+}
+.khung{
+	width:960px;
+	height:250px;
+	 border:solid 1px white;
+}
+.tren{
+ background: white;
+ width: 960px;
+ height:85px;
+ border:solid 1px white;
+}
+.ghichu{
+ width: 550px;
+ height: 30px;
+}
+.dong{
+ float: right;
+ padding-right: 120px;
+ padding-top: 20px;
+}
+.duoi{
+ background:#F7EB7D;
+ width: 960px;
+ height: 30px;
+}
+.menu{
+ transform: translate(10px, 5px);
+ padding-left: 0px;
+}
+.menu a{
+ color: black;
+ padding-left: 20px;
+ text-decoration: none;
+}
+.timkiem{
+ transform: translate(840px, -85px);
+}
+	
